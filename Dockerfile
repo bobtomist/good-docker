@@ -1,3 +1,3 @@
-FROM busybox:stable
+FROM busybox:stable@sha256:f7ca5a32c10d51aeda3b4d01c61c6061f497893d7f6628b92f822f7117182a57
 
 COPY README.md /etc/README.md 
